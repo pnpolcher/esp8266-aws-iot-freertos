@@ -1,0 +1,6 @@
+*.o
+*.a
+*.pyc
+*.key
+*.pem
+build
