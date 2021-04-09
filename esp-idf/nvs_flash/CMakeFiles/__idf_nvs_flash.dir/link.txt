@@ -1,2 +1,0 @@
-/usr/bin/ar qc libnvs_flash.a  CMakeFiles/__idf_nvs_flash.dir/src/nvs_api.cpp.o CMakeFiles/__idf_nvs_flash.dir/src/nvs_item_hash_list.cpp.o CMakeFiles/__idf_nvs_flash.dir/src/nvs_page.cpp.o CMakeFiles/__idf_nvs_flash.dir/src/nvs_pagemanager.cpp.o CMakeFiles/__idf_nvs_flash.dir/src/nvs_storage.cpp.o CMakeFiles/__idf_nvs_flash.dir/src/nvs_types.cpp.o
-/usr/bin/ranlib libnvs_flash.a
